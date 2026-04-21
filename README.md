@@ -167,21 +167,8 @@ Cenários sugeridos para teste:
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - 17/04/2026
+* 1.0.0 - 20/04/2026
     * Entrega final da Fase 2: sistema de irrigação inteligente com ESP32, integração OpenWeather via Python, documentação completa e vídeo demonstrativo.
-
-* 0.3.0 - 16/04/2026
-    * Implementação do Ir Além 1 (Python + OpenWeather) com conversão para GMT-3.
-    * Integração via Serial Monitor (`Serial.available()` / `Serial.readStringUntil()`).
-
-* 0.2.0 - 16/04/2026
-    * Lógica de decisão da bomba combinando umidade, pH, NPK e chuva prevista.
-    * Definição da cultura (milho) e faixas operacionais (pH 5.5–7.0, umidade mínima 50%) conforme Embrapa Milho e Sorgo.
-
-* 0.1.0 - 15/04/2026
-    * Montagem do circuito no Wokwi: ESP32, DHT22, LDR, módulo relé e 3 botões NPK.
-    * Primeira versão do código de leitura dos sensores.
-
 
 ## 📋 Licença
 
