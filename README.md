@@ -72,15 +72,7 @@ Assista à demonstração completa do projeto no YouTube (vídeo não listado):
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
-
 - <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens — incluindo a captura do circuito montado no Wokwi (`circuito_wokwi.png`) e o logo da FIAP.
-
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
 
 - <b>src</b>: Todo o código fonte do projeto. Contém:
   - `farmtech_fase2.ino` — código C/C++ do ESP32 com a lógica completa de monitoramento e decisão de irrigação.
